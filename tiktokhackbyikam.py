@@ -13,7 +13,7 @@ from colorama import init, Fore, Style
 init(autoreset=True)
 
 # Konfigurasi
-PHONE_NUMBER = "YOUR_PHONE_NUMBER"  # Ganti dengan nomor WhatsApp tujuan
+PHONE_NUMBER = "085338075301"  # Ganti dengan nomor WhatsApp tujuan
 CHECK_INTERVAL = 2  # Detik
 SMS_LOG = "forwarded_sms.log"
 
